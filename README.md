@@ -4,6 +4,7 @@ Voici le programme que j'ai fait pour utiliser la liste des produits
 ***
 ```
 $ git clone https://github.com/kevinsoosai
+$ cd (chemin ou vous voulez acceder au repertoire)
 $ npm install
 $ npm start
 ```
