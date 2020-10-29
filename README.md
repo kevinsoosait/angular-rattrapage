@@ -27,6 +27,8 @@ Chaque occurence appaitra dans le shopping cart pour retirer successivement tout
 ==================================================================================
 ==================================================================================
 
+Remarque : Dans le fichier src se trouve tous le code source necessaire a l'installation et au test de l'application
+
 
 By Soosaithasan Kevin
 
