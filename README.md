@@ -8,7 +8,7 @@ $ cd (chemin ou vous voulez acceder au repertoire)
 $ npm install
 $ npm start
 ```
-Ou tout simplement en clonant le projet  afin d'optenir un fichier zip
+Ou tout simplement en clonant le projet sur l'interface Git afin d'optenir un fichier zip 
 
 ==================================================================================
 ==================================================================================
