@@ -8,6 +8,8 @@ $ cd (chemin ou vous voulez acceder au repertoire)
 $ npm install
 $ npm start
 ```
+Ou tout simplement en clonant le projet  afin d'optenir un fichier zip
+
 Avant tout de chose 
 
 Ce code nous permet d'afficher la liste de produit a partir d'une liste prédefinie de produit. Chacun de ces produits se caracterisant par son nom et son prix unitaire.
